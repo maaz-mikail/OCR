@@ -1,0 +1,7 @@
+numpy
+opencv-python
+paddlepaddle
+paddleocr
+easyocr
+boto3
+trp
